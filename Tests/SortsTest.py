@@ -1,4 +1,4 @@
-import unittest, random, testtools
+import unittest, random
 
 import sys
 sys.path.append("../")
